@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeHealth", "BeeHealth\BeeHealth.csproj", "{31D3D1DC-5C01-4D5A-A31D-B49A4CF78976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D3D1DC-5C01-4D5A-A31D-B49A4CF78976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D3D1DC-5C01-4D5A-A31D-B49A4CF78976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D3D1DC-5C01-4D5A-A31D-B49A4CF78976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D3D1DC-5C01-4D5A-A31D-B49A4CF78976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8848D0-AEC1-41C1-8D42-20B95E5CF0DB}
+	EndGlobalSection
+EndGlobal
