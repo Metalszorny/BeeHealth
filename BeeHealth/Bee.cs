@@ -19,6 +19,16 @@ namespace BeeHealth
             {
                 return;
             }
+			
+            if (percent < 0)
+            {
+                percent = 0;
+            }
+			
+            if (percent > 100)
+            {
+                percent = 100;
+            }
 
             this.Health -= (this.Health * (percent / (float)100));
         }
