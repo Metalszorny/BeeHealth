@@ -1,7 +1,7 @@
 ﻿
 namespace BeeHealth
 {
-    class QueenBee : Bee
+    sealed class QueenBee : Bee
     {
         public QueenBee() : base()
         { }
