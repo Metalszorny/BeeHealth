@@ -1,7 +1,7 @@
 ﻿
 namespace BeeHealth
 {
-    class Bee
+    abstract class Bee
     {
         public Bee()
         {
